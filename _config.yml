@@ -28,6 +28,9 @@ navigation:
   - name: Suchen
     url: 'http://www.google.de'
     type: external
+  - name: Logics bunte Blöcke
+    id: e5a75bfe-5287-41ee-8567-627091841ab0
+    type: content
 favicon: null
 description: Whats this?
 purpose: []
