@@ -1,19 +1,4 @@
-name: Main
-favicon: null
-layout_spectrum: 0.20933044818229973
 typography_spectrum: 0.08432659273967147
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20933044818229973
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Main
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Whats this?
 purpose: []
