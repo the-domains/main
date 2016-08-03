@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Main
+name: Sk.de
 cta:
   domain: null
   bucket: null
@@ -32,5 +32,6 @@ navigation:
     id: e5a75bfe-5287-41ee-8567-627091841ab0
     type: content
 favicon: null
+title: Tagline? Hugh?
 description: Whats this?
 purpose: []
