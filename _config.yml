@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Suchen
+    url: 'http://www.google.de'
+    type: external
 favicon: null
 description: Whats this?
 purpose: []
