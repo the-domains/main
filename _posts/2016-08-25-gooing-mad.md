@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-25T13:22:48.300Z'
+datePublished: '2016-08-25T13:30:44.364Z'
 sourcePath: _posts/2016-08-25-gooing-mad.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T13:22:47.707Z'
+dateModified: '2016-08-25T13:30:43.573Z'
 title: ''
 publisher: {}
 description: Gooing mad!
