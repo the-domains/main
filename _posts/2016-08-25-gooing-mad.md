@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-25T13:18:24.293Z'
+datePublished: '2016-08-25T13:22:48.300Z'
 sourcePath: _posts/2016-08-25-gooing-mad.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T13:18:23.676Z'
+dateModified: '2016-08-25T13:22:47.707Z'
 title: ''
 publisher: {}
 description: Gooing mad!
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: gooing-mad/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3b3bb76-7b18-45f7-88da-6c263e77295f.jpg)
