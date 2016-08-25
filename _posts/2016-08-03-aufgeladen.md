@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-08-25T13:09:39.884Z'
+datePublished: '2016-08-25T13:41:20.477Z'
 sourcePath: _posts/2016-08-03-aufgeladen.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf72a3f-6e9f-4d0d-9627-b2afa14667e5.jpg
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T13:09:37.773Z'
+dateModified: '2016-08-25T13:41:19.871Z'
 title: Aufgeladen?
 publisher: {}
 description: Neuer Artikel!
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: aufgeladen/index.html
 _type: MediaObject
 
 ---
