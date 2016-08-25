@@ -4,21 +4,21 @@
         <description><![CDATA[Tagline? Hugh?]]></description>
         <link>https://thegrid.ai/main/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 13:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 13:09:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/main/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aufgeladen?]]></title>
+            <description><![CDATA[<article><h1>Aufgeladen?</h1><p>Neuer Artikel!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf72a3f-6e9f-4d0d-9627-b2afa14667e5.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf72a3f-6e9f-4d0d-9627-b2afa14667e5.jpg</link>
+            <guid isPermaLink="false">bf68307f-5e55-4ae8-8498-355c5a54b4dd</guid>
+            <pubDate>Thu, 25 Aug 2016 13:09:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/770b6ca8-8693-4d72-86b9-b632a2b0553b.jpg">]]></description>
             <link>https://thegrid.ai/main/1/index.html</link>
             <guid isPermaLink="false">120855ee-6113-4074-bfcc-0c15988f0056</guid>
             <pubDate>Wed, 03 Aug 2016 13:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aufgeladen?]]></title>
-            <description><![CDATA[<article><h1>Aufgeladen?</h1><p>Neuer Artikel!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf72a3f-6e9f-4d0d-9627-b2afa14667e5.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf72a3f-6e9f-4d0d-9627-b2afa14667e5.jpg</link>
-            <guid isPermaLink="false">bf68307f-5e55-4ae8-8498-355c5a54b4dd</guid>
-            <pubDate>Wed, 03 Aug 2016 13:45:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
