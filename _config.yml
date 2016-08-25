@@ -31,6 +31,9 @@ navigation:
   - name: 'Logics bunte Blöcke, now!'
     id: e5a75bfe-5287-41ee-8567-627091841ab0
     type: content
+  - name: Weiterer Link
+    id: 120855ee-6113-4074-bfcc-0c15988f0056
+    type: content
 favicon: null
 title: Tagline? Hugh?
 description: Whats this?
