@@ -1,4 +1,3 @@
-layout_spectrum: 0.20933044818229973
 typography_spectrum: 0.5591075869742781
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.20933044818229973
 analytics:
   google: null
   facebook: null
@@ -28,7 +28,7 @@ navigation:
   - name: Suchen
     url: 'http://www.google.de'
     type: external
-  - name: Logics bunte Blöcke
+  - name: 'Logics bunte Blöcke, now!'
     id: e5a75bfe-5287-41ee-8567-627091841ab0
     type: content
 favicon: null
