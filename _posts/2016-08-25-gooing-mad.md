@@ -1,13 +1,13 @@
 ---
-description: Gooing mad!
-dateModified: '2016-08-25T13:17:28.395Z'
-datePublished: '2016-08-25T13:18:03.088Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-25T13:18:24.293Z'
 sourcePath: _posts/2016-08-25-gooing-mad.md
+author: []
+via: {}
+dateModified: '2016-08-25T13:18:23.676Z'
+title: ''
+publisher: {}
+description: Gooing mad!
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -18,6 +18,6 @@ _type: MediaObject
 
 Gooing mad!
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=1.024288&amp;longitude=115.935983&amp;zoom=16&amp;address=Kalimantan%20Timur%2C%20Indonesia" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=16&amp;address=Kalimantan%20Timur%2C%20Indonesia" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmD5IsXPPaV0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmD5IsXPPaV0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmD5IsXPPaV0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
