@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Weiterer Link
-    id: 120855ee-6113-4074-bfcc-0c15988f0056
-    type: content
   - name: MAD!
     id: 97bfbed6-426c-4c67-a6d1-a212b673dc48
     type: content
