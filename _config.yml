@@ -28,6 +28,9 @@ navigation:
   - name: Jugos
     id: dfbac8ab-6785-4bef-a2a2-2384eecf14c2
     type: content
+  - name: How (NOT) to get out of bed when DEPRESSED
+    id: ee2e529e-425d-40ef-aa94-615be0dd2c88
+    type: content
 favicon: null
 title: Tagline? Hugh?
 description: Whats this?
