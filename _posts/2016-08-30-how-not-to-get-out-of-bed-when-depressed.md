@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T12:47:49.844Z'
+datePublished: '2016-08-30T12:50:19.459Z'
 inFeed: false
 hasPage: true
 author:
@@ -7,12 +7,12 @@ author:
     url: 'https://www.youtube.com/user/Paint'
     avatar: {}
 via: {}
-dateModified: '2016-08-30T12:47:44.759Z'
+dateModified: '2016-08-30T12:50:18.913Z'
 title: How (NOT) to get out of bed when DEPRESSED
 publisher: {}
 description: sEite 1
-starred: false
 sourcePath: _posts/2016-08-30-how-not-to-get-out-of-bed-when-depressed.md
+starred: false
 url: how-not-to-get-out-of-bed-when-depressed/index.html
 _type: MediaObject
 
