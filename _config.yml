@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Jugos
+    id: dfbac8ab-6785-4bef-a2a2-2384eecf14c2
+    type: content
 favicon: null
 title: Tagline? Hugh?
 description: Whats this?
