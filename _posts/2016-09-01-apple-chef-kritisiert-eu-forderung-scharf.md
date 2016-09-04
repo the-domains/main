@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-09-01T11:16:16.169Z'
+datePublished: '2016-09-01T11:20:06.752Z'
+sourcePath: _posts/2016-09-01-apple-chef-kritisiert-eu-forderung-scharf.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T11:16:08.752Z'
-title: 'Apple-Chef kritisiert EU-Forderung scharf '
+dateModified: '2016-09-01T11:20:06.315Z'
+title: Apple-Chef kritisiert EU-Forderung scharf
 publisher: {}
 description: ' Der Boss ist sauer: Apple-Chef Tim Cook hat der EU-Kommission in scharfen Worten vorgeworfen, hinter der Steuer-Nachforderung von potenziell mehr als 13 Milliarden Euro stecke eine politische Agenda.'
 starred: false
-sourcePath: _posts/2016-09-01-apple-chef-kritisiert-eu-forderung-scharf.md
 url: apple-chef-kritisiert-eu-forderung-scharf/index.html
 _type: Article
 
