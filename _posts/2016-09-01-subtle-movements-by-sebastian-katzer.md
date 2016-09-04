@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T10:41:31.616Z'
+datePublished: '2016-09-01T10:43:02.143Z'
 sourcePath: _posts/2016-09-01-subtle-movements-by-sebastian-katzer.md
 inFeed: true
 hasPage: true
@@ -8,8 +8,8 @@ author:
     url: 'http://soundcloud.com/sebastiankatzer'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T10:41:31.128Z'
-title: subtle movements by Sebastian Katzer
+dateModified: '2016-09-01T10:43:01.533Z'
+title: subtle movements
 publisher: {}
 description: Reinhören!
 starred: false
