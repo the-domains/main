@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-30T13:39:54.767Z'
+datePublished: '2016-09-01T12:06:05.791Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T13:39:54.137Z'
+dateModified: '2016-09-01T12:06:05.229Z'
 title: ''
 publisher: {}
 description: Hier gehts drüber!
 sourcePath: _posts/2016-08-30-hier-gehts-druber.md
-starred: false
+starred: true
 url: hier-gehts-druber/index.html
 _type: Blurb
 
